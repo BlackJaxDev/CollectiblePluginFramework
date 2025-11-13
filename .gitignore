@@ -1,0 +1,18 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Dotnet
+*.user
+*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
